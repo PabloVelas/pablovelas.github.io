@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: false
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: "https://pbs.twimg.com/profile_images/546908295831633920/TN_mFzNT.png"
+name: "Pablo Velasco Perez"
+copy: "Software engineer based in Waterloo, Ontario. Looking for Product Management internships"
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default
